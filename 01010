@@ -1,1 +1,2 @@
 print("Hello, what are you about to get into?")
+speak("hello jacob.")
